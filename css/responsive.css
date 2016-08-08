@@ -1,0 +1,10 @@
+@media screen 
+
+and (max-width: 900px)
+ {
+.bigPic{
+	background-image:url("../image/40536_banner-550x163_final-2.jpg");
+	height: 200px;
+	width: 50%;
+}
+}
